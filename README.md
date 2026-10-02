@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Anum Noor</h1>
 
 <h3 align="center">
-Full-Stack Web Development Learner | PHP & MySQL Developer
+Full-Stack Web Development Learner | PHP • MySQL • JavaScript
 </h3>
 
 <p align="center">
-  Building practical, responsive and database-driven web applications.
+Building responsive, practical and database-driven web applications.
 </p>
 
 ---
@@ -13,11 +13,11 @@ Full-Stack Web Development Learner | PHP & MySQL Developer
 ## 👩‍💻 About Me
 
 - 💻 Interested in **Full-Stack Web Development**
-- 🌱 Currently improving my skills in **PHP, MySQL and JavaScript**
+- 🌱 Currently strengthening my skills in **PHP, MySQL and JavaScript**
 - 🏆 Participated in **TechWiz – Category 2: End-to-End Web Solutions**
-- 💰 Built **Campus Coin**, a student finance & budgeting web application
-- 🚀 Focused on building practical projects and strengthening my development skills
-- 📚 Always learning new technologies and improving my problem-solving skills
+- 🎓 Built frontend projects during my **CodeAlpha Web Development Internship**
+- 🚀 I enjoy turning ideas into practical and responsive web applications
+- 📚 Continuously learning through projects and hands-on development
 
 ---
 
@@ -45,41 +45,112 @@ Full-Stack Web Development Learner | PHP & MySQL Developer
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Selected Projects
 
-### 💰 Campus Coin – Smart Spending, Student Style
+### 💰 Campus Coin — Smart Spending, Student Style
 
-A full-stack student finance and budgeting web application developed as part of **TechWiz – Category 2: End-to-End Web Solutions**.
+A full-stack student finance and budgeting application developed for  
+**TechWiz – Category 2: End-to-End Web Solutions**.
 
-Campus Coin helps students manage:
-
-- Income & expenses
+**Highlights:**
+- Student authentication and profile management
+- Income and expense tracking
+- Recurring transactions
 - Personal categories
-- Monthly budgets
-- Reports & analytics
-- Saving tips
-- Bookmarks
-- Student profiles
-- Administrator management
+- Budgets and alerts
+- Reports and analytics
+- Saving tips and bookmarks
+- Administrator dashboard
 
-**Tech Stack:** HTML5 • CSS3 • JavaScript • PHP • MySQL • XAMPP
+**Tech:** HTML5 • CSS3 • JavaScript • PHP • MySQL • XAMPP
 
-🔗 [View Campus Coin Repository](https://github.com/AnumNoor-dev/Campus-Coin)
+🔗 [View Repository](https://github.com/AnumNoor-dev/Campus-Coin)
+
+---
+
+### 🍔 FoodPulse — Full-Stack Food Ordering Platform
+
+A responsive food-ordering web application focused on a complete customer and admin workflow.
+
+**Highlights:**
+- Dynamic food menu
+- Search, category and dietary filters
+- Shopping cart
+- Coupon / discount system
+- Checkout simulation
+- Server-side order validation
+- Live order tracking
+- Role-based admin dashboard
+- Dark / light mode
+- Responsive interface
+
+**Tech:** PHP • MySQL • JavaScript • HTML5 • CSS3
+
+🔗 [View Repository](https://github.com/AnumNoor-dev/foodpulse)
+
+---
+
+### 🧮 CalcPulse Ultra — Scientific & Financial Calculator
+
+A responsive calculator created as part of my frontend development practice.
+
+**Highlights:**
+- Standard calculator
+- Scientific calculator
+- Financial EMI calculator
+- Degree / Radian support
+- Memory functions
+- Calculation history
+- Dark / light theme
+- Keyboard support
+- Exportable history
+
+**Tech:** HTML5 • CSS3 • JavaScript
+
+🔗 [View Repository](https://github.com/AnumNoor-dev/calcpulse-ultra-calculator)
+
+---
+
+### 📸 PixelPulse — Stock Photography Portal
+
+A responsive image discovery application powered by the **Unsplash API**.
+
+**Highlights:**
+- Live image search
+- Unsplash API integration
+- Infinite scrolling
+- Image preview modal
+- HD image download functionality
+- Skeleton loading interface
+- Responsive glassmorphism design
+
+**Tech:** HTML5 • CSS3 • JavaScript • REST API
+
+🔗 GitHub repository link: https://github.com/AnumNoor-dev/pixelpulse-image-gallery
+
+---
+
+## 💼 Experience & Learning
+
+### CodeAlpha — Web Development Internship
+
+Worked on practical frontend development projects including:
+
+- 📸 **PixelPulse** — API-powered stock photography portal
+- 🧮 **CalcPulse Ultra** — scientific and financial calculator
+
+These projects helped me practice responsive UI development, JavaScript, API integration, asynchronous programming and user-focused design.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AnumNoor-dev&show_icons=true&hide_border=true" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=AnumNoor-dev&show_icons=true&hide_border=true" />
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnumNoor-dev&layout=compact&hide_border=true" />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnumNoor-dev&layout=compact&hide_border=true" />
 </p>
 
 ---
@@ -89,20 +160,32 @@ Campus Coin helps students manage:
 - Advanced JavaScript
 - PHP Backend Development
 - MySQL Database Design
+- API Integration
 - Responsive Web Development
 - Git & GitHub workflows
 
 ---
 
-## 🎯 Goals
+## 🎯 Current Goals
 
 - Build more complete full-stack web applications
-- Improve backend and database development skills
-- Learn modern development tools and frameworks
-- Create a strong software development portfolio
+- Strengthen backend development
+- Improve database design skills
+- Learn modern frameworks and development tools
+- Build a strong software development portfolio
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+<a href="PASTE_YOUR_LINKEDIN_URL_HERE">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</p>
 
 ---
 
 <p align="center">
-  ⭐ Thanks for visiting my GitHub profile!
+  <b>Thanks for visiting my profile! 🚀</b>
 </p>
