@@ -132,14 +132,27 @@ A responsive image discovery application powered by the **Unsplash API**.
 
 ## 💼 Experience & Learning
 
-### CodeAlpha — Web Development Internship
+### 🖥️ IT Intern — Alkhidmat Foundation
+
+Completed an **IT Internship at Alkhidmat Foundation**, gaining practical exposure to information technology and a professional working environment.
+
+---
+
+### 💻 Web Development Intern — CodeAlpha
 
 Worked on practical frontend development projects including:
 
 - 📸 **PixelPulse** — API-powered stock photography portal
-- 🧮 **CalcPulse Ultra** — scientific and financial calculator
+- 🧮 **CalcPulse Ultra** — Scientific & Financial Calculator
 
-These projects helped me practice responsive UI development, JavaScript, API integration, asynchronous programming and user-focused design.
+Through these projects, I practiced:
+
+- Responsive web development
+- JavaScript and DOM manipulation
+- REST API integration
+- Async/Await and Fetch API
+- UI/UX implementation
+- Problem solving and debugging
 
 ---
 
@@ -179,7 +192,7 @@ These projects helped me practice responsive UI development, JavaScript, API int
 ## 🤝 Connect With Me
 
 <p align="left">
-<a href="PASTE_YOUR_LINKEDIN_URL_HERE">
+<a href="www.linkedin.com/in/anum-noor-77b184416">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </p>
